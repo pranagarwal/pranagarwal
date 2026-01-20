@@ -1,66 +1,51 @@
-Here's the revised version using the exact same symbols and structure from your original, with Gen AI integrated seamlessly into the Tech Stack and About Me sections for consistency.
+# 👋 Hi there, I'm Pranshu Agarwal
 
-👋 Hi there, I'm Pranshu Agarwal
-🎯 Flutter Developer | Gen AI Specialist | UI/UX Optimizer
-💻 Building high-quality, scalable Flutter apps with AI-powered backends for Android & iOS
+🎯 **Flutter Developer | Mobile App Enthusiast | UI/UX Optimizer**
+💻 Building high-quality, scalable, and performance-driven mobile apps for Android & iOS
 
-🚀 About Me
-I’m a Flutter developer with 3 years of experience in building beautiful, efficient, and maintainable mobile applications.
-My expertise lies in end-to-end app development—from pixel-perfect UI/UX to Python backends, Generative AI chatbots using LangChain, and complex API integrations.
+---
 
-I’m passionate about clean architecture, Gen AI (LLMs, RAG), performance optimization, and exploring Flutter/Dart + AI ecosystems.
+## 🚀 About Me
 
-🛠️ Tech Stack
-Languages & Frameworks:
+I’m a **Flutter developer with 3 years of experience** in building beautiful, efficient, and maintainable mobile applications.
+My expertise lies in **end-to-end app development**, from crafting pixel-perfect UI to integrating complex APIs and managing app lifecycle efficiently.
 
-🐦 Flutter / Dart
+I’m passionate about writing **clean architecture**, improving performance, and continuously exploring new technologies in the Flutter and Dart ecosystem.
 
-🐍 Python (Backend + Gen AI)
+---
 
-☕ Kotlin (for Android Native)
+## 🛠️ Tech Stack
 
-🧩 Java (Basics)
+**Languages & Frameworks:**
+- 🐦 Flutter / Dart
+- ☕ Kotlin (for Android Native)
+- 🧩 Java (Basics)
 
-Architecture & State Management:
+**Architecture & State Management:**
+- GetX
+- Provider
+- Bloc / Cubit
+- MVC, MVVM
 
-GetX
+**Backend & APIs:**
+- RESTful APIs, GraphQL
+- Firebase (Auth, Firestore, Crashlytics, Messaging)
+- Local DBs – Hive, SQFlite
 
-Provider
+**Tools & Services:**
+- Git / GitHub / GitLab
+- FVM for version management
+- Jenkins (CI/CD)
+- Postman
+- Shorebird for OTA patching
+- Dio with caching
 
-Bloc / Cubit
+**Other Skills:**
+- App Store & Play Store Deployment
+- Writing maintainable code with documentation
+- Performance optimization and custom animations
+- UI/UX Collaboration using Figma
 
-MVC, MVVM
+---
 
-Backend & APIs:
-
-RESTful APIs, GraphQL
-
-Firebase (Auth, Firestore, Crashlytics, Messaging)
-
-Local DBs – Hive, SQFlite
-
-Gen AI: LangChain, Chatbots, LLMs, RAG
-
-Tools & Services:
-
-Git / GitHub / GitLab
-
-FVM for version management
-
-Jenkins (CI/CD)
-
-Postman
-
-Shorebird for OTA patching
-
-Dio with caching
-
-Other Skills:
-
-App Store & Play Store Deployment
-
-Writing maintainable code with documentation
-
-Performance optimization and custom animations
-
-UI/UX Collaboration using Figma
+⭐️ *If you like my work, consider starring my repositories or reaching out for collaboration!*
